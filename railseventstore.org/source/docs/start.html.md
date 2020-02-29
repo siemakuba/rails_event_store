@@ -30,7 +30,7 @@ rails new -m https://railseventstore.org/new YOUR-APP-NAME
   * [reading](/docs/read) domain events
   * [publishing](/docs/publish) domain events
   * logging [request metadata](/docs/request_metadata)
-  * concurrencycontrol using [expected version](/docs/expected_version)
+  * concurrency control using [expected version](/docs/expected_version)
   * possible [errors](/docs/exceptions)
 
-API documentation documentation is available [here](/docs/api)
+API documentation is available [here](/docs/api)
